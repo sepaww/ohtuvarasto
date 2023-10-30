@@ -2,6 +2,6 @@
 
 **/.pytest_cache
 
-.tmp
+*.tmp
 
 .pytest_cache

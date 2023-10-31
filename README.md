@@ -1,3 +1,3 @@
 # ohtuvarasto
 
-https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_NAME>/badge.svg
+https://github.com/sepaww/ohtuvarasto/workflows/main/badge.svg
